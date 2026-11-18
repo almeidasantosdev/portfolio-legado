@@ -1,11 +1,12 @@
+# Portfólio KA.dev
 
-  # Portfolio Website Design
+Versão anterior do portfólio de Kleidson Almeida. A página reúne apresentação, projetos, experiência, habilidades, certificados e contato, com o nome animado na abertura e skills que alternam entre UI/UX, sistemas, inteligência artificial e web design.
 
-  This is a code bundle for Portfolio Website Design. The original project is available at https://www.figma.com/design/utQ7pEAhE2ZWMxy3Tapfku/Portfolio-Website-Design.
+Feito em React, TypeScript e Vite. O site atual, com versão em português e inglês, está no repositório `ka.dev`.
 
-  ## Running the code
+## Como rodar
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+```bash
+npm install
+npm run dev
+```
